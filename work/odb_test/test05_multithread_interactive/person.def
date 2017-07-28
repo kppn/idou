@@ -1,0 +1,4 @@
+includes string
+Person people
+  std::string name
+  unsigned short age@

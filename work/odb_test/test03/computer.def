@@ -1,0 +1,5 @@
+includes string
+Computer computers
+  std::string cpu
+  unsigned long memory@
+  unsigned long storage@
